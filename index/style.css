@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#nav h1{
+    color: brown;
+}
+#nav h1:hover{
+    color: black;
+}
